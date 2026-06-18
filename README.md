@@ -1,4 +1,4 @@
-![oPanel Brand Logo](https://opanel.net/assets/images/OPanel.svg)
+![oPanel Brand Logo](https://opanel.net/assets/images/oPanel.svg)
 
 ## oPanel Install Command:
 Supported Systems:
